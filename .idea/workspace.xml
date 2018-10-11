@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d93b221-923b-4a2b-9c8d-bf934e118aab" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/posixemulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/serving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/testapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/useragents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/werkzeug/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel-0.30.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/archive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/bdist_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/egg2wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/pkginfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/signatures/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/signatures/djbec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/signatures/ed25519py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/signatures/keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/tool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site-packages/wheel/wininst2wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/site.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/sre_compile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/sre_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/sre_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/stat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/struct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/tempfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/tokenize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Lib/weakref.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/activate_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/easy_install-3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/f2py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/iptest.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/iptest3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/ipython.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/ipython3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/markdown_py.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/pip3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/pygmentize.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/saved_model_cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/tensorboard.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/Scripts/wheel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/pip-selfcheck.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/share/man/man1/ipython.1.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/auto.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/clock.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/ascii.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/big5.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1250.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1251.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1252.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1253.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1254.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1255.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1256.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1257.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp1258.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp437.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp737.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp775.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp850.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp852.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp855.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp857.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp860.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp861.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp862.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp863.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp864.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp865.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp866.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp869.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp874.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp932.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp936.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp949.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/cp950.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/dingbats.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/ebcdic.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/euc-cn.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/euc-jp.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/euc-kr.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/gb12345.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/gb1988.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/gb2312-raw.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/gb2312.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso2022-jp.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso2022-kr.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso2022.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-1.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-10.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-13.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-14.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-15.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-16.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-2.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-3.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-4.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-5.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-6.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-7.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-8.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/iso8859-9.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/jis0201.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/jis0208.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/jis0212.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/koi8-r.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/koi8-u.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/ksc5601.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macCentEuro.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macCroatian.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macCyrillic.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macDingbats.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macGreek.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macIceland.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macJapan.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macRoman.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macRomania.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macThai.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macTurkish.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/macUkraine.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/shiftjis.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/symbol.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/encoding/tis-620.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/history.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/http1.0/http.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/http1.0/pkgIndex.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/af.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/af_za.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ar.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ar_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ar_jo.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ar_lb.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ar_sy.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/be.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/bg.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/bn.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/bn_in.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/ca.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Envs/Tensorflow/tcl/tcl8.6/msgs/cs.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APP/templates/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/app/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/app/home/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/app/home/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MovieWeb/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pure/NetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pure/NetCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pure/NetCode/TWOS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/home/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/home/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/home/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/home/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/shop-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/shop-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/APP/templates/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/pip-selfcheck.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Farmfood$app.coverage" NAME="app Coverage Results" MODIFIED="1538033519427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Farmfood$models.coverage" NAME="models Coverage Results" MODIFIED="1537429673794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP" />
+    <SUITE FILE_PATH="coverage/Farmfood$Farmfood.coverage" NAME="Farmfood Coverage Results" MODIFIED="1539092596890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Farmfood$view.coverage" NAME="view Coverage Results" MODIFIED="1537498708870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP/home" />
+    <SUITE FILE_PATH="coverage/Farmfood$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1537425470469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="farmfood: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="farmfood: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="cartfood: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="farmfood: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="foods: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1211480351">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cartfood" value="13" />
+          <entry key="cartfood_id_uindex" value="1" />
+          <entry key="cfg" value="3" />
+          <entry key="css" value="17" />
+          <entry key="foods" value="14" />
+          <entry key="html" value="102" />
+          <entry key="jpg" value="20" />
+          <entry key="js" value="48" />
+          <entry key="json" value="5" />
+          <entry key="name" value="1" />
+          <entry key="num" value="1" />
+          <entry key="png" value="3" />
+          <entry key="py" value="90" />
+          <entry key="sql" value="1" />
+          <entry key="users" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="17" />
+          <entry key="Database Element" value="35" />
+          <entry key="HTML" value="102" />
+          <entry key="Image" value="23" />
+          <entry key="Ini" value="3" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="48" />
+          <entry key="Python" value="90" />
+          <entry key="SQL" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="97" />
+          <entry key="css" value="11" />
+          <entry key="html" value="2307" />
+          <entry key="js" value="3" />
+          <entry key="py" value="3215" />
+          <entry key="sql" value="90" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="2307" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Python" value="3215" />
+          <entry key="SQL" value="90" />
+          <entry key="Scratch" value="97" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Farmfood" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/APP/home/view.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1539141024986" expanded="true" signature="2947:2952" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/templates/about-us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6312">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/templates/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="294" column="30" lean-forward="true" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/templates/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APP/templates/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="482" selection-start-line="482" selection-end-line="489" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/cartfood">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/cartfood/index/cartfood_id_uindex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Setup Script" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shop-list.html</find>
+      <find>main</find>
+      <find>tooltip</find>
+      <find>login</find>
+      <find>user</find>
+      <find>fonts</find>
+      <find>revicons</find>
+      <find>&lt;link href=&quot;http://fonts.googleapis.com/css?family=Great+Vibes%7CLato:100,100i,300,300i,400,400i,700,700i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://fonts.googleapis.com/css?family=Great+Vibes%7CLato:100,100i,300,300i,400,400i,700,700i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://fonts.googleapis.com/css?family=Great+Vibes%7CLato:100,100i,300,300i,400,400i,700,700i,900,900i&quot; rel=&quot;stylesheet&quot;&gt;</find>
+      <find>fontawesome</find>
+      <find>n.touch</find>
+      <find>f</find>
+      <find>add</find>
+      <find>back_to</find>
+      <find>backtotop</find>
+      <find>png</find>
+      <find>back_to_top</find>
+      <find>../images</find>
+      <find>//</find>
+      <find>organge</find>
+      <find>orange</find>
+      <find>Inter</find>
+      <find>text</find>
+      <find>shop</find>
+      <find>slider</find>
+      <find>shop now</find>
+      <find>javas</find>
+      <find>fonts/revicons.woff</find>
+      <find>Subtotal</find>
+      <find>F</find>
+      <find>CartFood</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;{{ url_for('static', filename='css/</replace>
+      <replace>&quot;{{ url_for('static', filename='images/</replace>
+      <replace>&quot;{{ url_for('static', filename='js/</replace>
+      <replace>href=&quot;{{ urf_for(static</replace>
+      <replace>filename</replace>
+      <replace>{{ url_for('static', filename=</replace>
+      <replace>src=&quot;{{ url_for('static', filename='js/</replace>
+      <replace>href=&quot;{{ url_for('static', filename='css/</replace>
+      <replace>src=&quot;{{ url_for('static', filename='images/</replace>
+      <replace>.css')}}</replace>
+      <replace>&quot;{{ url_for('static', filename='</replace>
+      <replace>&quot;{{ url_for('static', filename='js</replace>
+      <replace>.js')}}</replace>
+      <replace>{{ url_for('static', filename='images/</replace>
+      <replace>.jpg')}}</replace>
+      <replace>.png')}}</replace>
+      <replace>../static/images</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/APP/home/view.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/APP/config.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/APP/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/APP/templates/signin.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../MovieWeb/app/home/view.py" />
+        <option value="$PROJECT_DIR$/APP/main/__init__.py" />
+        <option value="$PROJECT_DIR$/APP/main/view.py" />
+        <option value="$PROJECT_DIR$/APP/home/__init__.py" />
+        <option value="fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/users/index/name" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery-migrate.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/script.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/owl.carousel.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.ui.touch-punch.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/widget.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/slider.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/slick.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.themepunch.tools.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.themepunch.revolution.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.prettyPhoto.init.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/jquery.countdown.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/imagesloaded.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/core.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/pip-selfcheck.json" />
+        <option value="$PROJECT_DIR$/APP/static/css/ionicons.min.css" />
+        <option value="$PROJECT_DIR$/APP/static/css/owl.theme.css" />
+        <option value="$PROJECT_DIR$/APP/static/css/owl.carousel.css" />
+        <option value="$PROJECT_DIR$/APP/static/js/modernizr-2.7.1.min.js" />
+        <option value="$PROJECT_DIR$/APP/database.py" />
+        <option value="$PROJECT_DIR$/APP/static/js/mouse.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/extensions/revolution.extension.layeranimation.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/extensions/revolution.extension.kenburn.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/js/isotope.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/APP/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/APP/static/css/style.css" />
+        <option value="$PROJECT_DIR$/APP/static/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/APP/static/css/signin.css" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/APP/config.py" />
+        <option value="$PROJECT_DIR$/APP/__init__.py" />
+        <option value="$PROJECT_DIR$/APP/templates/signin.html" />
+        <option value="$PROJECT_DIR$/APP/home/form.py" />
+        <option value="$PROJECT_DIR$/APP/templates/about-us.html" />
+        <option value="$PROJECT_DIR$/APP/templates/contact-us.html" />
+        <option value="$PROJECT_DIR$/APP/templates/index.html" />
+        <option value="$PROJECT_DIR$/APP/templates/shop-list.html" />
+        <option value="$PROJECT_DIR$/APP/static/css/prettyPhoto.css" />
+        <option value="$PROJECT_DIR$/APP/templates/shipping_details.html" />
+        <option value="$PROJECT_DIR$/APP/templates/checkout.html" />
+        <option value="$PROJECT_DIR$/APP/templates/shop.html" />
+        <option value="$PROJECT_DIR$/APP/models.py" />
+        <option value="$PROJECT_DIR$/APP/templates/main.html" />
+        <option value="$PROJECT_DIR$/APP/templates/cart.html" />
+        <option value="$PROJECT_DIR$/APP/home/view.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="125" />
+    <option name="y" value="30" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Farmfood" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farmfood" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farmfood" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farmfood" type="462c0819:PsiDirectoryNode" />
+              <item name="APP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farmfood" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farmfood" type="462c0819:PsiDirectoryNode" />
+              <item name="APP" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Sqlite (Xerial)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\Python\Flask\Farmfood\APP" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\Python\Flask\Farmfood\APP" />
+      <recent name="C:\Code\Python\Flask\Farmfood\static" />
+      <recent name="C:\Code\Python\Flask\Farmfood\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.Farmfood">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Farmfood" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python">
+      <module name="Farmfood" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Farmfood" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APP/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APP/home/view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Farmfood" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <option name="flaskDebug" value="true" />
+      <module name="Farmfood" />
+      <option name="target" value="C:\Code\Python\Flask\Farmfood\app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Code\Python\Flask\farmfood\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <module name="Farmfood" />
+      <option name="target" value="C:\Code\Python\Flask\Farmfood\app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Code\Python\Flask\farmfood\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Farmfood" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Python.view" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MCrac\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d93b221-923b-4a2b-9c8d-bf934e118aab" name="Default" comment="" />
+      <created>1536568236911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536568236911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49601594" visible="true" weight="0.1427614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50398403" side_tool="true" weight="0.1541555" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3261745" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4966488" weight="0.40134227" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.49932975" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4919571" weight="0.3261745" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5033512" side_tool="true" weight="0.40134227" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14812332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4305">
+          <caret line="1212" selection-start-line="1212" selection-end-line="1212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/werkzeug/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/home/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-806">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20145">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/assets/coloredbg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/js/jquery.themepunch.revolution.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/about_pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/js/jquery.ui.touch-punch.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farmfood_cartfood.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/thumb/shop_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/shop_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/shop_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/shop_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/flask/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3265">
+          <caret line="233" column="65" selection-start-line="233" selection-start-column="65" selection-end-line="233" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/sqlalchemy/sql/sqltypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10241">
+          <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/thumb/shop_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/thumb/shop_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/thumb/shop_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/thumb/shop_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/images/shop/shop_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/home/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/js/price-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" column="39" lean-forward="true" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127512">
+          <caret line="2030" column="4" selection-start-line="2030" selection-start-column="4" selection-end-line="2030" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/settings.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/prettyPhoto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/shop-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/static/css/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="79" column="52" lean-forward="true" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
+          <folding>
+            <element signature="e#398#933#0#HTML" />
+            <element signature="e#11399#11570#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/399295293/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15584">
+          <caret line="1126" column="8" selection-start-line="1126" selection-start-column="8" selection-end-line="1126" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/shipping_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="e#5224#9710#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-910">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/foods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/cartfood/index/cartfood_id_uindex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fbf8fa7f-b1e0-41a0-9f6d-4c1b679ccd9f/schema/farmfood/table/cartfood">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="482" selection-start-line="482" selection-end-line="489" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6312">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="294" column="30" lean-forward="true" selection-start-line="294" selection-start-column="30" selection-end-line="294" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/home/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1539141024986" expanded="true" signature="2947:2952" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

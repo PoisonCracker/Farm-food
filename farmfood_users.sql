@@ -1,0 +1,1 @@
+UPDATE farmfood.users SET name = 'admin', password = '123', email = 'admin@localhost', sex = null, address = null, tel = null, realname = null WHERE id = 1;

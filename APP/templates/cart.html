@@ -1,0 +1,104 @@
+﻿{% extends "main.html" %}
+{% block body %}
+    <div id="main">
+        <div class="section section-bg-10 pt-11 pb-17">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2 class="page-title text-center">Cart</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section border-bottom pt-2 pb-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <ul class="breadcrumbs">
+                            <li><a href="{{ url_for('home.index') }}">Home</a></li>
+                            <li><a href="{{ url_for('home.shop') }}">Shop</a></li>
+                            <li>Cart</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section pt-7 pb-7">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <table class="table shop-cart">
+                            <tbody>
+                            {% for v in food %}
+                                <tr class="cart_item">
+                                    <td class="product-remove">
+                                        <a href="{{ url_for('home.removecart',name=v.name) }}" class="remove">×</a>
+                                    </td>
+                                    <td class="product-thumbnail">
+                                        <a href="{{ url_for('home.shop_list') }}">
+                                            <img src="{{ url_for('static',filename= v.img ) }}" alt="">
+                                        </a>
+                                    </td>
+                                    <td class="product-info">
+                                        <a href="shop-list.html">{{ v.name }}</a>
+                                        <span class="sub-title">{{ v.text }}</span>
+                                        <span class="amount">${{ v.prices }}</span>
+                                    </td>
+                                    <td class="product-quantity">
+                                        <div class="quantity">
+                                            <input id="qty-1" type="number" min="0" name="number" value="1"
+                                                   class="input-text qty text" size="4">
+                                        </div>
+                                    </td>
+                                    <td class="product-subtotal">
+                                        <span class="amount">${{ v.prices }}</span>
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                            <tr>
+                                <td colspan="5" class="actions">
+                                    <a class="continue-shopping" href="{{ url_for('home.shop') }}"> Continue
+                                        Shopping</a>
+                                    <input type="submit" class="update-cart" name="update_cart" value="Update Cart"/>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="cart-totals">
+                            <table>
+                                <tbody>
+                                <tr class="cart-subtotal">
+                                    <th>Subtotal</th>
+                                    <td>${{ all_prices }}</td>
+                                </tr>
+                                <tr class="shipping">
+                                    <th>Shipping</th>
+                                    <td>Free Shipping</td>
+                                </tr>
+                                <tr class="order-total">
+                                    <th>Total</th>
+                                    <td><strong>${{ all_prices }}</strong></td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <div class="proceed-to-checkout">
+                                <a href="{{ url_for('home.checkout') }}">Proceed to Checkout</a>
+                            </div>
+                        </div>
+                        <div class="coupon-shipping">
+                            <div class="coupon">
+                                <form>
+                                    <input type="text" name="coupon_code" class="coupon-code" id="coupon_code" value=""
+                                           placeholder="Coupon code"/>
+                                    <input type="submit" class="apply-coupon" name="apply_coupon" value="Apply Coupon"/>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
